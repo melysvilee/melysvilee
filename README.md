@@ -12,7 +12,7 @@
    <br>
    <b> ABOUT ME </b>
     <br> 
- I'm Mely, born and raised in NYC! I'm currently a FRESHMEN IN college, no longer a High School Senior, and I'm aspiring to be a cybersecurity analyst! I've taken AP Computer Science A, and AP Computer Science Principles in my school, but I've also been in mutliple coding programs along the following years. I have experience in Java, Python, HTML/CSS, Javascript, and C++ ! I creating art, digital or traditional, chatting with others, reading and animals! <br> Checkout my <a href ="melysvilee.github.io/kkcf/portfolio/frontpage.html"> website! </a>
+ I'm Mely, born and raised in NYC! I'm currently a FRESHMEN IN college, no longer a High School Senior, and I'm aspiring to be a cybersecurity analyst! I've taken AP Computer Science A, and AP Computer Science Principles in my school, but I've also been in mutliple coding programs along the following years. I have experience in Java, Python, HTML/CSS, Javascript, and C++ ! I creating art, digital or traditional, chatting with others, reading and animals! <br> Checkout my <a href ="[melysvilee.github.io/kkcf/portfolio/frontpage.html](https://melysvilee.github.io/kkcf/portfolio/frontpage.html)"> website! </a>
 
    <br> 
    <br>
