@@ -12,7 +12,7 @@
    <br>
    <b> ABOUT ME </b>
     <br> 
- I'm Mely, born and raised in NYC! I'm currently a senior in highschool and I'm aspiring to be a cybersecurity anaylist! I've taken AP Computer Science A, and AP Computer Science Principles in my school, but I've also been in mutliple coding programs along the following years. I have experience in Java, Python, HTML/CSS, Javascript, and C++ ! I creating art, digital or traditional, chatting with others, reading and animals!
+ I'm Mely, born and raised in NYC! I'm currently a FRESHMEN IN college, no longer a High School Senior, and I'm aspiring to be a cybersecurity analyst! I've taken AP Computer Science A, and AP Computer Science Principles in my school, but I've also been in mutliple coding programs along the following years. I have experience in Java, Python, HTML/CSS, Javascript, and C++ ! I creating art, digital or traditional, chatting with others, reading and animals!
    <br> 
    <br>
    <b> PROJECTS </b>
